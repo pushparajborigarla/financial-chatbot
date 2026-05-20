@@ -25,7 +25,7 @@ financial-chatbot/
 └── financial_data_analysis_Jupyter.html
 ## Project Screenshot
 
-<img src="chatbot.png" width="300">
+<img src="chatbot.png" width="600">
 
 ## How to Run
 
