@@ -23,6 +23,9 @@ financial-chatbot/
 ├── templates/
 ├── Financial_Chatbot_Documentation.html
 └── financial_data_analysis_Jupyter.html
+## Project Screenshot
+
+![Chatbot UI](chatbot.png)
 
 ## How to Run
 
@@ -30,3 +33,4 @@ financial-chatbot/
 
 ```bash
 git clone https://github.com/pushparajborigarla/financial-chatbot.git
+
