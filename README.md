@@ -41,13 +41,7 @@ http://127.0.0.1:5000
 
 ---
 
-## 📌 Sample Queries
 
-- What is the total revenue of Apple in 2025?
-- Which company showed the best growth?
-- What is Tesla operating cash flow in 2025?
-
----
 
 ## ⚠️ Limitations
 
