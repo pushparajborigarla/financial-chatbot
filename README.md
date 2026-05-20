@@ -1,36 +1,71 @@
-# Financial Chatbot
+# 📊 Financial Chatbot
 
-An AI-powered financial analysis chatbot developed using Python and Streamlit for financial query handling and insight generation.
+AI-powered financial chatbot built using Python, Flask, HTML, and CSS that analyzes SEC 10-K financial data of Microsoft, Apple, and Tesla (2023–2025) and provides financial insights through predefined queries.
 
-## Features
-- Financial data analysis
-- Interactive chatbot interface
-- CSV dataset processing
-- Streamlit web application
-- Financial insight generation
+---
 
-## Technologies Used
-- Python
-- Streamlit
-- Pandas
-- HTML/CSS
+## 🚀 Features
 
-## Project Structure
-financial-chatbot/
-│
-├── app.py
-├── financial_analysis_2023_2025.csv
-├── templates/
-├── Financial_Chatbot_Documentation.html
-└── financial_data_analysis_Jupyter.html
-## Project Screenshot
+- Financial chatbot interface  
+- Revenue & profit analysis  
+- Company comparison  
+- Financial trend visualization  
+- CSV-based dataset integration  
 
-<img src="chatbot.png" width="600">
+---
 
-## How to Run
+## 🛠️ Tech Stack
 
-1. Clone the repository
+- Python  
+- Flask  
+- Pandas & NumPy  
+- Matplotlib  
+- HTML & CSS  
+
+---
+
+## ⚙️ Run Project
 
 ```bash
 git clone https://github.com/pushparajborigarla/financial-chatbot.git
+cd financial-chatbot
+pip install flask pandas matplotlib numpy
+python app.py
+```
+
+Open:
+
+```text
+http://127.0.0.1:5000
+```
+
+---
+
+## 📌 Sample Queries
+
+- What is the total revenue of Apple in 2025?
+- Which company showed the best growth?
+- What is Tesla operating cash flow in 2025?
+
+---
+
+## ⚠️ Limitations
+
+- Supports predefined queries only  
+- No NLP or real-time AI support  
+
+---
+
+## 👨‍💻 Author
+
+**Pushpa Raj**  
+B.Tech Computer Science Engineering
+
+---
+
+## 🔗 Repository
+
+https://github.com/pushparajborigarla/financial-chatbot
+
+<img src="chatbot.png" width="600">
 
